@@ -1,0 +1,12 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.RouterTestService\Chapter7.RouterTestService\bin\Debug\Chapter7.RouterTestService.dll.config
+D:\wwwroot\book\Chapter7_WCF\Chapter7.RouterTestService\Chapter7.RouterTestService\bin\Debug\Chapter7.RouterTestService.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.RouterTestService\Chapter7.RouterTestService\bin\Debug\Chapter7.RouterTestService.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.RouterTestService\Chapter7.RouterTestService\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.RouterTestService\Chapter7.RouterTestService\obj\Debug\Chapter7.RouterTestService.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.RouterTestService\Chapter7.RouterTestService\obj\Debug\Chapter7.RouterTestService.pdb
+D:\wwwroot\Book\chapter07\Chapter7.RouterTestService\Chapter7.RouterTestService\bin\Debug\Chapter7.RouterTestService.dll.config
+D:\wwwroot\Book\chapter07\Chapter7.RouterTestService\Chapter7.RouterTestService\bin\Debug\Chapter7.RouterTestService.dll
+D:\wwwroot\Book\chapter07\Chapter7.RouterTestService\Chapter7.RouterTestService\bin\Debug\Chapter7.RouterTestService.pdb
+D:\wwwroot\Book\chapter07\Chapter7.RouterTestService\Chapter7.RouterTestService\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\chapter07\Chapter7.RouterTestService\Chapter7.RouterTestService\obj\Debug\Chapter7.RouterTestService.dll
+D:\wwwroot\Book\chapter07\Chapter7.RouterTestService\Chapter7.RouterTestService\obj\Debug\Chapter7.RouterTestService.pdb

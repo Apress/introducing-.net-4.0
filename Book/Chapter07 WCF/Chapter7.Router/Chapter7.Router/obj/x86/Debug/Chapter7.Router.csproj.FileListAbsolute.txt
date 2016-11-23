@@ -1,0 +1,16 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.Router.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.Router.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.RouterTestService.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.RouterTestService.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\obj\x86\Debug\Chapter7.Router.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\obj\x86\Debug\Chapter7.Router.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.Router.exe.config
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.Router.exe.config
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\obj\x86\Debug\Chapter7.Router.exe
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\obj\x86\Debug\Chapter7.Router.pdb
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.Router.exe
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.Router.pdb
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.RouterTestService.dll
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\bin\Debug\Chapter7.RouterTestService.pdb
+D:\wwwroot\Book\chapter07\Chapter7.Router\Chapter7.Router\obj\x86\Debug\ResolveAssemblyReference.cache

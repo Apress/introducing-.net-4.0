@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BookModelStoreContainer" CdmEntityContainer="BookEntities">
+    <EntitySetMapping Name="Films">
+      <EntityTypeMapping TypeName="BookModel.Film">
+        <MappingFragment StoreEntitySet="Film">
+          <ScalarProperty Name="FilmID" ColumnName="FilmID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Length" ColumnName="Length" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FilmShowings">
+      <EntityTypeMapping TypeName="BookModel.FilmShowing">
+        <MappingFragment StoreEntitySet="FilmShowing">
+          <ScalarProperty Name="FilmShowingID" ColumnName="FilmShowingID" />
+          <ScalarProperty Name="FilmID" ColumnName="FilmID" />
+          <ScalarProperty Name="ShowingDate" ColumnName="ShowingDate" />
+          <ScalarProperty Name="Screen" ColumnName="Screen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="BookModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="OrderNumber" ColumnName="OrderNumber" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="Firstname" ColumnName="Firstname" />
+          <ScalarProperty Name="Lastname" ColumnName="Lastname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderItems">
+      <EntityTypeMapping TypeName="BookModel.OrderItem">
+        <MappingFragment StoreEntitySet="OrderItem">
+          <ScalarProperty Name="OrderItemID" ColumnName="OrderItemID" />
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="FilmShowingID" ColumnName="FilmShowingID" />
+          <ScalarProperty Name="QtyAdult" ColumnName="QtyAdult" />
+          <ScalarProperty Name="QtyChild" ColumnName="QtyChild" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="GetCrewInfo" FunctionName="BookModel.Store.FilmGetCrewInfo">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BookModel.FilmCrew">
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="LeadActor1" ColumnName="LeadActor1" />
+          <ScalarProperty Name="LeadActor2" ColumnName="LeadActor2" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,3 @@
+obj\Debug\_Chapter6.HelloWF.g.cs
+obj\Debug\Workflow1.g.cs
+obj\Debug\SaveBooking.g.cs

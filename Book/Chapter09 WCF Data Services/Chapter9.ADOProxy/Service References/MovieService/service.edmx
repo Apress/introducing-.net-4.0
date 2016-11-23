@@ -1,0 +1,104 @@
+﻿<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+  <edmx:DataServices xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" m:DataServiceVersion="1.0">
+    <Schema Namespace="BookModel" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+      <EntityContainer Name="BookEntities" p7:LazyLoadingEnabled="true" m:IsDefaultEntityContainer="true" xmlns:p7="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+        <EntitySet Name="Films" EntityType="BookModel.Film" />
+        <EntitySet Name="FilmShowings" EntityType="BookModel.FilmShowing" />
+        <EntitySet Name="Orders" EntityType="BookModel.Order" />
+        <EntitySet Name="OrderItems" EntityType="BookModel.OrderItem" />
+        <AssociationSet Name="FK_FilmShowing_Film" Association="BookModel.FK_FilmShowing_Film">
+          <End Role="Film" EntitySet="Films" />
+          <End Role="FilmShowing" EntitySet="FilmShowings" />
+        </AssociationSet>
+        <AssociationSet Name="FK_OrderItem_FilmShowing" Association="BookModel.FK_OrderItem_FilmShowing">
+          <End Role="FilmShowing" EntitySet="FilmShowings" />
+          <End Role="OrderItem" EntitySet="OrderItems" />
+        </AssociationSet>
+        <AssociationSet Name="FK_OrderItem_Order" Association="BookModel.FK_OrderItem_Order">
+          <End Role="Order" EntitySet="Orders" />
+          <End Role="OrderItem" EntitySet="OrderItems" />
+        </AssociationSet>
+      </EntityContainer>
+      <EntityType Name="Film">
+        <Key>
+          <PropertyRef Name="FilmID" />
+        </Key>
+        <Property Name="FilmID" Type="Edm.Int32" Nullable="false" p8:StoreGeneratedPattern="Identity" xmlns:p8="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+        <Property Name="Title" Type="Edm.String" Nullable="true" MaxLength="255" Unicode="false" FixedLength="false" />
+        <Property Name="Description" Type="Edm.String" Nullable="true" MaxLength="255" Unicode="false" FixedLength="false" />
+        <Property Name="Length" Type="Edm.Int32" Nullable="true" />
+        <NavigationProperty Name="FilmShowings" Relationship="BookModel.FK_FilmShowing_Film" FromRole="Film" ToRole="FilmShowing" />
+      </EntityType>
+      <EntityType Name="FilmShowing">
+        <Key>
+          <PropertyRef Name="FilmShowingID" />
+        </Key>
+        <Property Name="FilmShowingID" Type="Edm.Int32" Nullable="false" p8:StoreGeneratedPattern="Identity" xmlns:p8="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+        <Property Name="FilmID" Type="Edm.Int32" Nullable="true" />
+        <Property Name="ShowingDate" Type="Edm.DateTime" Nullable="true" />
+        <Property Name="Screen" Type="Edm.Int32" Nullable="true" />
+        <NavigationProperty Name="Film" Relationship="BookModel.FK_FilmShowing_Film" FromRole="FilmShowing" ToRole="Film" />
+        <NavigationProperty Name="OrderItems" Relationship="BookModel.FK_OrderItem_FilmShowing" FromRole="FilmShowing" ToRole="OrderItem" />
+      </EntityType>
+      <EntityType Name="Order">
+        <Key>
+          <PropertyRef Name="OrderID" />
+        </Key>
+        <Property Name="OrderID" Type="Edm.Int32" Nullable="false" p8:StoreGeneratedPattern="Identity" xmlns:p8="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+        <Property Name="OrderNumber" Type="Edm.String" Nullable="true" MaxLength="255" Unicode="false" FixedLength="false" />
+        <Property Name="OrderDate" Type="Edm.DateTime" Nullable="true" />
+        <Property Name="Firstname" Type="Edm.String" Nullable="true" MaxLength="255" Unicode="false" FixedLength="false" />
+        <Property Name="Lastname" Type="Edm.String" Nullable="true" MaxLength="255" Unicode="false" FixedLength="false" />
+        <NavigationProperty Name="OrderItems" Relationship="BookModel.FK_OrderItem_Order" FromRole="Order" ToRole="OrderItem" />
+      </EntityType>
+      <EntityType Name="OrderItem">
+        <Key>
+          <PropertyRef Name="OrderItemID" />
+        </Key>
+        <Property Name="OrderItemID" Type="Edm.Int32" Nullable="false" p8:StoreGeneratedPattern="Identity" xmlns:p8="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+        <Property Name="OrderID" Type="Edm.Int32" Nullable="true" />
+        <Property Name="FilmShowingID" Type="Edm.Int32" Nullable="true" />
+        <Property Name="QtyAdult" Type="Edm.Int32" Nullable="true" />
+        <Property Name="QtyChild" Type="Edm.Int32" Nullable="true" />
+        <NavigationProperty Name="FilmShowing" Relationship="BookModel.FK_OrderItem_FilmShowing" FromRole="OrderItem" ToRole="FilmShowing" />
+        <NavigationProperty Name="Order" Relationship="BookModel.FK_OrderItem_Order" FromRole="OrderItem" ToRole="Order" />
+      </EntityType>
+      <Association Name="FK_FilmShowing_Film">
+        <End Role="Film" Type="BookModel.Film" Multiplicity="0..1" />
+        <End Role="FilmShowing" Type="BookModel.FilmShowing" Multiplicity="*" />
+        <ReferentialConstraint>
+          <Principal Role="Film">
+            <PropertyRef Name="FilmID" />
+          </Principal>
+          <Dependent Role="FilmShowing">
+            <PropertyRef Name="FilmID" />
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="FK_OrderItem_FilmShowing">
+        <End Role="FilmShowing" Type="BookModel.FilmShowing" Multiplicity="0..1" />
+        <End Role="OrderItem" Type="BookModel.OrderItem" Multiplicity="*" />
+        <ReferentialConstraint>
+          <Principal Role="FilmShowing">
+            <PropertyRef Name="FilmShowingID" />
+          </Principal>
+          <Dependent Role="OrderItem">
+            <PropertyRef Name="FilmShowingID" />
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+      <Association Name="FK_OrderItem_Order">
+        <End Role="Order" Type="BookModel.Order" Multiplicity="0..1" />
+        <End Role="OrderItem" Type="BookModel.OrderItem" Multiplicity="*" />
+        <ReferentialConstraint>
+          <Principal Role="Order">
+            <PropertyRef Name="OrderID" />
+          </Principal>
+          <Dependent Role="OrderItem">
+            <PropertyRef Name="OrderID" />
+          </Dependent>
+        </ReferentialConstraint>
+      </Association>
+    </Schema>
+  </edmx:DataServices>
+</edmx:Edmx>

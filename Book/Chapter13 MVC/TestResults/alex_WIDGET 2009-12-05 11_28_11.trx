@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d3609249-228d-4d1b-8573-75a9d7b15334" name="alex@WIDGET 2009-12-05 11:28:11" runUser="widget\alex" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="c1258bdf-cef7-4dcf-aa20-9739d9d96d81">
+    <Deployment runDeploymentRoot="alex_WIDGET 2009-12-05 11_28_11">
+      <DeploymentItem filename="D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC\bin\Chapter13.BobsMoviesMVC.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2009-12-05T11:28:11.8679267+11:00" queuing="2009-12-05T11:28:12.0409366+11:00" start="2009-12-05T11:28:12.0479370+11:00" finish="2009-12-05T11:28:12.5949683+11:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Film_Should_NotValidate_With_No_Title" storage="d:\wwwroot\book\chapter13_mvc\chapter13.bobsmoviesmvc\chapter13.bobsmoviesmvc.tests\bin\debug\chapter13.bobsmoviesmvc.tests.dll" id="597d4d12-de86-a739-a4b7-8164875089c6">
+      <Execution id="58cc407c-e2fc-4bac-bb47-d30248084248" />
+      <TestMethod codeBase="D:/wwwroot/book/Chapter13_MVC/Chapter13.BobsMoviesMVC/Chapter13.BobsMoviesMVC.Tests/bin/Debug/Chapter13.BobsMoviesMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BobsMoviesMVC.Tests.Controllers.FilmControllerTest, Chapter13.BobsMoviesMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Film_Should_NotValidate_With_No_Title" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="597d4d12-de86-a739-a4b7-8164875089c6" executionId="58cc407c-e2fc-4bac-bb47-d30248084248" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="58cc407c-e2fc-4bac-bb47-d30248084248" testId="597d4d12-de86-a739-a4b7-8164875089c6" testName="Film_Should_NotValidate_With_No_Title" computerName="WIDGET" duration="00:00:00.0149097" startTime="2009-12-05T11:28:12.0599377+11:00" endTime="2009-12-05T11:28:12.5679667+11:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58cc407c-e2fc-4bac-bb47-d30248084248">
+    </UnitTestResult>
+  </Results>
+</TestRun>

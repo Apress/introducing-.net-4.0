@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="BookModelStoreContainer">
+    <EntitySet Name="Film" EntityType="BookModel.Store.Film" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="FilmShowing" EntityType="BookModel.Store.FilmShowing" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Order" EntityType="BookModel.Store.Order" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OrderItem" EntityType="BookModel.Store.OrderItem" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_FilmShowing_Film" Association="BookModel.Store.FK_FilmShowing_Film">
+      <End Role="Film" EntitySet="Film" />
+      <End Role="FilmShowing" EntitySet="FilmShowing" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderItem_FilmShowing" Association="BookModel.Store.FK_OrderItem_FilmShowing">
+      <End Role="FilmShowing" EntitySet="FilmShowing" />
+      <End Role="OrderItem" EntitySet="OrderItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderItem_Order" Association="BookModel.Store.FK_OrderItem_Order">
+      <End Role="Order" EntitySet="Order" />
+      <End Role="OrderItem" EntitySet="OrderItem" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Film">
+    <Key>
+      <PropertyRef Name="FilmID" />
+    </Key>
+    <Property Name="FilmID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="varchar" MaxLength="255" />
+    <Property Name="Description" Type="varchar" MaxLength="255" />
+    <Property Name="Length" Type="int" />
+  </EntityType>
+  <EntityType Name="FilmShowing">
+    <Key>
+      <PropertyRef Name="FilmShowingID" />
+    </Key>
+    <Property Name="FilmShowingID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FilmID" Type="int" />
+    <Property Name="ShowingDate" Type="datetime" />
+    <Property Name="Screen" Type="int" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="OrderNumber" Type="varchar" MaxLength="255" />
+    <Property Name="OrderDate" Type="datetime" />
+    <Property Name="Firstname" Type="varchar" MaxLength="255" />
+    <Property Name="Lastname" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="OrderItem">
+    <Key>
+      <PropertyRef Name="OrderItemID" />
+    </Key>
+    <Property Name="OrderItemID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="OrderID" Type="int" />
+    <Property Name="FilmShowingID" Type="int" />
+    <Property Name="QtyAdult" Type="int" />
+    <Property Name="QtyChild" Type="int" />
+  </EntityType>
+  <Association Name="FK_FilmShowing_Film">
+    <End Role="Film" Type="BookModel.Store.Film" Multiplicity="0..1" />
+    <End Role="FilmShowing" Type="BookModel.Store.FilmShowing" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Film">
+        <PropertyRef Name="FilmID" />
+      </Principal>
+      <Dependent Role="FilmShowing">
+        <PropertyRef Name="FilmID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderItem_FilmShowing">
+    <End Role="FilmShowing" Type="BookModel.Store.FilmShowing" Multiplicity="0..1" />
+    <End Role="OrderItem" Type="BookModel.Store.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FilmShowing">
+        <PropertyRef Name="FilmShowingID" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="FilmShowingID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderItem_Order">
+    <End Role="Order" Type="BookModel.Store.Order" Multiplicity="0..1" />
+    <End Role="OrderItem" Type="BookModel.Store.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="FilmGetCrewInfo" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="filmID" Type="int" Mode="In" />
+  </Function>
+</Schema>

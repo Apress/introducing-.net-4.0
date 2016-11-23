@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<local:Workflow1 mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:local="clr-namespace:Chapter6.HelloWF;assembly=Chapter6.HelloWF" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mv="clr-namespace:Microsoft.VisualBasic;assembly=System" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" xmlns:s1="clr-namespace:System;assembly=mscorlib" xmlns:s2="clr-namespace:System;assembly=System" xmlns:s3="clr-namespace:System;assembly=System.Xml" xmlns:s4="clr-namespace:System;assembly=System.Core" xmlns:sad="clr-namespace:System.Activities.Debugger;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System" xmlns:scg1="clr-namespace:System.Collections.Generic;assembly=System.ServiceModel" xmlns:scg2="clr-namespace:System.Collections.Generic;assembly=System.Core" xmlns:scg3="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data" xmlns:sd1="clr-namespace:System.Data;assembly=System.Data.DataSetExtensions" xmlns:sl="clr-namespace:System.Linq;assembly=System.Core" xmlns:st="clr-namespace:System.Text;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <local:Workflow1.Implementation>
+    <Sequence DisplayName="Book film" sad:XamlDebuggerXmlReader.FileName="D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF\Chapter6.HelloWF\Workflow1.xaml">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="x:String" Default="" Name="BookingReference" />
+        <Variable x:TypeArguments="x:Boolean" Name="BookingSuccessful" />
+        <Variable x:TypeArguments="x:Boolean" Name="FreeBooking" />
+        <Variable x:TypeArguments="x:String" Name="variable1" />
+      </Sequence.Variables>
+      <WriteLine DisplayName="Workflow started" Text="Workflow started" />
+      <Sequence DisplayName="Check availability">
+        <If Condition="[NumberOfTickets &gt; 5]" DisplayName="If NumberOfTickets&gt;5">
+          <If.Then>
+            <Assign DisplayName="Booking unsuccessful">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:Boolean">[BookingSuccessful]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:Boolean">[False]</InArgument>
+              </Assign.Value>
+            </Assign>
+          </If.Then>
+          <If.Else>
+            <Parallel DisplayName="Booking successful">
+              <Assign DisplayName="Booking successful">
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:Boolean">[BookingSuccessful]</OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:Boolean">[True]</InArgument>
+                </Assign.Value>
+              </Assign>
+              <Assign DisplayName="Get booking ref">
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:String">[BookingReference]</OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:String">["abcde"]</InArgument>
+                </Assign.Value>
+              </Assign>
+            </Parallel>
+          </If.Else>
+        </If>
+      </Sequence>
+      <local:SaveBooking BookingReference="[BookingReference]" mva:VisualBasic.Settings="Assembly references and imported namespaces serialized as XML namespaces" />
+      <local:FreeBookingPromotion FreeBooking="{x:Null}" BookingReference="[BookingReference]" />
+      <If Condition="[FreeBooking = True]" DisplayName="Check if booking free">
+        <If.Then>
+          <WriteLine Text="Congratulations you have won a free booking" />
+        </If.Then>
+        <If.Else>
+          <WriteLine Text="Sorry try again next time" />
+        </If.Else>
+      </If>
+      <WriteLine DisplayName="Display output" Text="[&quot;Booking result: &quot; + BookingSuccessful.ToString() + &quot; Reference: &quot; + BookingReference.ToString()]" />
+    </Sequence>
+  </local:Workflow1.Implementation>
+</local:Workflow1>

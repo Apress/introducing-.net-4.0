@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter05\Chapter05.Tasks\bin\Debug\Chapter05.Tasks.exe
+d:\wwwroot\book\chapter05\Chapter05.Tasks\bin\Debug\Chapter05.Tasks.pdb
+d:\wwwroot\book\chapter05\Chapter05.Tasks\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter05\Chapter05.Tasks\obj\x86\Debug\Chapter05.Tasks.exe
+d:\wwwroot\book\chapter05\Chapter05.Tasks\obj\x86\Debug\Chapter05.Tasks.pdb

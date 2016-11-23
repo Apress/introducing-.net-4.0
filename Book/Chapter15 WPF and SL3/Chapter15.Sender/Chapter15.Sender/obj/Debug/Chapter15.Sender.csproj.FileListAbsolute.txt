@@ -1,0 +1,12 @@
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\obj\Debug\App.g.cs
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\obj\Debug\MainPage.g.cs
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\obj\Debug\Chapter15.Sender.g.resources
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\Bin\Debug\Chapter15.Sender.dll
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\Bin\Debug\Chapter15.Sender.pdb
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\Bin\Debug\AppManifest.xaml
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\Bin\Debug\Chapter15.Sender.xap
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\Bin\Debug\TestPage.html
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\obj\Debug\Chapter15.Sender.dll
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\obj\Debug\Chapter15.Sender.pdb
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,9 @@
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\bin\Debug\Chapter2.HelloMEF.exe
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\bin\Debug\Chapter2.HelloMEF.pdb
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\obj\x86\Debug\Chapter2.HelloMEF.exe
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\obj\x86\Debug\Chapter2.HelloMEF.pdb
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\bin\Debug\Chapter2.MEFInterfaces.dll
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\bin\Debug\Chapter2.MEFInterfaces.pdb
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\bin\Debug\Chapter2.EmailLogger.dll
+d:\wwwroot\book\chapter02\Chapter2.HelloMEF\bin\Debug\Chapter2.EmailLogger.pdb

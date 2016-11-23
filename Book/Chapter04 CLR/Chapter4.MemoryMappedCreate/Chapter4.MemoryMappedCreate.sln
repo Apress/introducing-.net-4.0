@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4.MemoryMappedCreate", "Chapter4.MemoryMappedCreate.csproj", "{983D36BF-EF96-4D87-9572-ECC4A1528AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter4.MemoryMappedRead", "..\Chapter4.MemoryMappedRead\Chapter4.MemoryMappedRead.csproj", "{372FD06E-0A39-402B-9FAC-5398CD41F91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983D36BF-EF96-4D87-9572-ECC4A1528AB9}.Debug|x86.ActiveCfg = Debug|x86
+		{983D36BF-EF96-4D87-9572-ECC4A1528AB9}.Debug|x86.Build.0 = Debug|x86
+		{983D36BF-EF96-4D87-9572-ECC4A1528AB9}.Release|x86.ActiveCfg = Release|x86
+		{983D36BF-EF96-4D87-9572-ECC4A1528AB9}.Release|x86.Build.0 = Release|x86
+		{372FD06E-0A39-402B-9FAC-5398CD41F91D}.Debug|x86.ActiveCfg = Debug|x86
+		{372FD06E-0A39-402B-9FAC-5398CD41F91D}.Debug|x86.Build.0 = Debug|x86
+		{372FD06E-0A39-402B-9FAC-5398CD41F91D}.Release|x86.ActiveCfg = Release|x86
+		{372FD06E-0A39-402B-9FAC-5398CD41F91D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

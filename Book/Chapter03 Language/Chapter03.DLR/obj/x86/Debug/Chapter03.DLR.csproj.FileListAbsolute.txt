@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter03\Chapter03.DLR\bin\Debug\Chapter03.DLR.exe
+d:\wwwroot\book\chapter03\Chapter03.DLR\bin\Debug\Chapter03.DLR.pdb
+d:\wwwroot\book\chapter03\Chapter03.DLR\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter03\Chapter03.DLR\obj\x86\Debug\Chapter03.DLR.exe
+d:\wwwroot\book\chapter03\Chapter03.DLR\obj\x86\Debug\Chapter03.DLR.pdb

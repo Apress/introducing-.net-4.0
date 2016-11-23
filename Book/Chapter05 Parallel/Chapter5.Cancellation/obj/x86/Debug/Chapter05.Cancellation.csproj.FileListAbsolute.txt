@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter05\Chapter05.Cancellation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter05\Chapter05.Cancellation\bin\Debug\Chapter05.Cancellation.exe
+d:\wwwroot\book\chapter05\Chapter05.Cancellation\bin\Debug\Chapter05.Cancellation.pdb
+d:\wwwroot\book\chapter05\Chapter05.Cancellation\obj\x86\Debug\Chapter05.Cancellation.exe
+d:\wwwroot\book\chapter05\Chapter05.Cancellation\obj\x86\Debug\Chapter05.Cancellation.pdb

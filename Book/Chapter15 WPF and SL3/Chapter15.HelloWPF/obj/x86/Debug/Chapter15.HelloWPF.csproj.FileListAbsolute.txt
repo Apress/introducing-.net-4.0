@@ -1,0 +1,60 @@
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\bin\Debug\Chapter15.HelloWPF.exe
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\bin\Debug\Chapter15.HelloWPF.pdb
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\MainWindow.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\MainWindow.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\App.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF_MarkupCompile.cache
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.g.resources
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.Properties.Resources.resources
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.exe
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.pdb
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\datagrid.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\datagrid.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\ide.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\text.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\ide.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\text.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\aliasing.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\aliasing.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\controlError.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\ErrorControl.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\controlError.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\ErrorControl.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF_MarkupCompile.lref
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\bin\Debug\Chapter15.HelloWPF.exe.config
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\databindingIDE.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.HelloWPF\obj\x86\Debug\databindingIDE.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\bin\Debug\Chapter15.HelloWPF.exe.config
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.exe
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.pdb
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\bin\Debug\Chapter15.HelloWPF.exe
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\bin\Debug\Chapter15.HelloWPF.pdb
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\aliasing.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\datagrid.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\ErrorControl.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\MainWindow.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\text.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\aliasing.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\controlError.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\databindingIDE.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\datagrid.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\ErrorControl.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\ide.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\MainWindow.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\text.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\App.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF_MarkupCompile.cache
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF_MarkupCompile.lref
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\controlError.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\databindingIDE.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\ide.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.g.resources
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\Chapter15.HelloWPF.Properties.Resources.resources
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.HelloWPF\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,30 @@
+﻿<Page x:Class="Chapter15.HelloWPF.text"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="text" MaxWidth="300">
+
+    <Grid>
+
+        <StackPanel Width="300">
+
+          
+
+
+            <TextBlock TextOptions.TextFormattingMode="Ideal" TextWrapping="Wrap">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel urna in magna venenatis rutrum. Duis auctor congue magna, vel volutpat purus tristique at.
+            </TextBlock>
+
+            <TextBlock TextOptions.TextFormattingMode="Display" TextWrapping="Wrap">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel urna in magna venenatis rutrum. Duis auctor congue magna, vel volutpat purus tristique at.
+            </TextBlock>
+
+        </StackPanel>
+        
+        
+       
+    </Grid>
+</Page>

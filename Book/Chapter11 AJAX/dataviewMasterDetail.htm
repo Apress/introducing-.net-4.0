@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    
+    <script src="./Scripts/Start.js" type="text/javascript"></script>
+   
+    <style>
+    .sys-template { display: none; }
+    
+    .dataItem
+{
+    font-family:Arial;
+    font-size:20px;
+}
+
+#staticBind
+{
+    width:700px;
+}
+
+    </style>
+
+    <script type="text/javascript">
+
+       Sys.require([Sys.components.dataView], function() {
+           var people = [
+            { Name: "Alex Mackey", Age: "28", Address: "20 Tree road", Telephone: "888888" },
+            { Name: "Sharyn Mackey", Age: "35", Address: "10 Oak ave", Telephone: "777777" },
+            { Name: "Brett Chaney", Age: "33", Address: "5 Oak Road", Telephone: "6666666" },
+            { Name: "Jenny Chai", Age: "24", Address: "88 Burleigh Gardens", Telephone: "5555555" }
+        ];
+
+        var master = Sys.create.dataView('#peoplesNames',   
+        {
+            data: people
+        });
+
+        var detail = Sys.create.dataView("#peopleDetail");
+        Sys.bind(detail, "data", master, "selectedData");
+        
+    });   
+   </script>
+
+</head>
+
+
+<body>
+   <div id="peoplesNames" class="sys-template">    
+   <div class="dataItem" sys:command="select">  
+      
+      {{ Name }}
+     
+      <hr />      
+   </div>
+</div>   
+   
+     
+<!--Detail View-->
+<div id="peopleDetail" class="sys-template">
+<span class="nameddetailitem">
+    Age: {{ Age }}  <br />
+    Address: {{ Address }}   <br />
+    Telephone: {{ Telephone }}    
+</span>
+</div>
+   
+</body>
+
+
+
+</html>

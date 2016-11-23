@@ -1,0 +1,1 @@
+d:\wwwroot\book\chapter08\Chapter08.CodeOnly\obj\x86\Debug\ResolveAssemblyReference.cache

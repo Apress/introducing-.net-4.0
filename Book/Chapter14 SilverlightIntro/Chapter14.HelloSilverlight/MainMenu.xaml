@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="Chapter14.HelloSilverlight.MainMenu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+    
+    <Grid x:Name="LayoutRoot" Background="White">
+
+        <Canvas x:Name="layoutRoot" Background="AliceBlue" Height="600" Width="800">
+
+            <TextBlock  FontSize="40" Canvas.Left="200" Canvas.Top="25" Style="{StaticResource MyStyle}">Silverlight Demo</TextBlock>
+
+            <StackPanel Canvas.Left="300" Canvas.Top="150"  Orientation="Vertical"   VerticalAlignment="Top">
+                <Button x:Name="cmdStackPanel" Content="Stack Panel"></Button>
+                <Button x:Name="cmdGrid" Content="Grid"></Button>
+                <Button x:Name="cmdAnimation" Content="Animation"></Button>
+                <Button x:Name="cmdCallJS" Content="Call JS"></Button>
+                <Button x:Name="cmdMediaTest" Content="Media"></Button>
+                <Button x:Name="cmdDataBind" Content="Data Binding"></Button>
+           </StackPanel>
+
+           
+        </Canvas>
+
+
+
+</Grid>
+</UserControl>

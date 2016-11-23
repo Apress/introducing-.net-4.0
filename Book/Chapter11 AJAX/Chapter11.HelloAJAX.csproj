@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{338EE3AB-37E5-48B8-BDB0-37C24AB51BED}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Chapter11.HelloAJAX</RootNamespace>
+    <AssemblyName>Chapter11.HelloAJAX</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Services" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BookService.svc" />
+    <Content Include="dataviewTwoWay.htm" />
+    <Content Include="dataviewAdo.htm" />
+    <Content Include="observer.htm" />
+    <Content Include="dataviewConditional.htm" />
+    <Content Include="dataviewWCF.htm" />
+    <Content Include="dataviewAsmx.htm" />
+    <Content Include="dataviewMasterDetail.htm" />
+    <Content Include="dataviewOnRendered.htm" />
+    <Content Include="dataviewDeclarative.htm" />
+    <Content Include="dataviewProgrammatic.htm" />
+    <Content Include="GetData.asmx" />
+    <Content Include="GetDataFromWCF.svc" />
+    <Content Include="jQueryPlugin.htm" />
+    <Content Include="Scripts\Date.HijriCalendar.debug.js" />
+    <Content Include="Scripts\Date.HijriCalendar.js" />
+    <Content Include="Scripts\Date.UmAlQuraCalendar.debug.js" />
+    <Content Include="Scripts\Date.UmAlQuraCalendar.js" />
+    <Content Include="Scripts\extended\Accordion\AccordionBehavior.debug.js" />
+    <Content Include="Scripts\extended\Accordion\AccordionBehavior.js" />
+    <Content Include="Scripts\extended\AlwaysVisibleControl\AlwaysVisibleControlBehavior.debug.js" />
+    <Content Include="Scripts\extended\AlwaysVisibleControl\AlwaysVisibleControlBehavior.js" />
+    <Content Include="Scripts\extended\Animation\AnimationBehavior.debug.js" />
+    <Content Include="Scripts\extended\Animation\AnimationBehavior.js" />
+    <Content Include="Scripts\extended\Animation\Animations.debug.js" />
+    <Content Include="Scripts\extended\Animation\Animations.js" />
+    <Content Include="Scripts\extended\AutoComplete\AutoCompleteBehavior.debug.js" />
+    <Content Include="Scripts\extended\AutoComplete\AutoCompleteBehavior.js" />
+    <Content Include="Scripts\extended\Calendar\arrow-left.gif" />
+    <Content Include="Scripts\extended\Calendar\arrow-right.gif" />
+    <Content Include="Scripts\extended\Calendar\Calendar.css" />
+    <Content Include="Scripts\extended\Calendar\CalendarBehavior.debug.js" />
+    <Content Include="Scripts\extended\Calendar\CalendarBehavior.js" />
+    <Content Include="Scripts\extended\CascadingDropDown\CascadingDropDownBehavior.debug.js" />
+    <Content Include="Scripts\extended\CascadingDropDown\CascadingDropDownBehavior.js" />
+    <Content Include="Scripts\extended\CollapsiblePanel\CollapsiblePanelBehavior.debug.js" />
+    <Content Include="Scripts\extended\CollapsiblePanel\CollapsiblePanelBehavior.js" />
+    <Content Include="Scripts\extended\ColorPicker\ColorPicker.css" />
+    <Content Include="Scripts\extended\ColorPicker\ColorPickerBehavior.debug.js" />
+    <Content Include="Scripts\extended\ColorPicker\ColorPickerBehavior.js" />
+    <Content Include="Scripts\extended\Common\Common.debug.js" />
+    <Content Include="Scripts\extended\Common\Common.js" />
+    <Content Include="Scripts\extended\Common\DateTime.debug.js" />
+    <Content Include="Scripts\extended\Common\DateTime.js" />
+    <Content Include="Scripts\extended\Common\Threading.debug.js" />
+    <Content Include="Scripts\extended\Common\Threading.js" />
+    <Content Include="Scripts\extended\Compat\DragDrop\DragDropScripts.debug.js" />
+    <Content Include="Scripts\extended\Compat\DragDrop\DragDropScripts.js" />
+    <Content Include="Scripts\extended\Compat\Timer\Timer.debug.js" />
+    <Content Include="Scripts\extended\Compat\Timer\Timer.js" />
+    <Content Include="Scripts\extended\ConfirmButton\confirmButtonBehavior.debug.js" />
+    <Content Include="Scripts\extended\ConfirmButton\confirmButtonBehavior.js" />
+    <Content Include="Scripts\extended\DragPanel\FloatingBehavior.debug.js" />
+    <Content Include="Scripts\extended\DragPanel\FloatingBehavior.js" />
+    <Content Include="Scripts\extended\DropDown\drop-arrow.gif" />
+    <Content Include="Scripts\extended\DropDown\DropDown.css" />
+    <Content Include="Scripts\extended\DropDown\DropDownBehavior.debug.js" />
+    <Content Include="Scripts\extended\DropDown\DropDownBehavior.js" />
+    <Content Include="Scripts\extended\DropShadow\DropShadowBehavior.debug.js" />
+    <Content Include="Scripts\extended\DropShadow\DropShadowBehavior.js" />
+    <Content Include="Scripts\extended\DynamicPopulate\DynamicPopulateBehavior.debug.js" />
+    <Content Include="Scripts\extended\DynamicPopulate\DynamicPopulateBehavior.js" />
+    <Content Include="Scripts\extended\ExtendedControls.debug.js" />
+    <Content Include="Scripts\extended\ExtendedControls.js" />
+    <Content Include="Scripts\extended\ExtenderBase\BaseScripts.debug.js" />
+    <Content Include="Scripts\extended\ExtenderBase\BaseScripts.js" />
+    <Content Include="Scripts\extended\FilteredTextBox\FilteredTextBoxBehavior.debug.js" />
+    <Content Include="Scripts\extended\FilteredTextBox\FilteredTextBoxBehavior.js" />
+    <Content Include="Scripts\extended\HoverExtender\HoverBehavior.debug.js" />
+    <Content Include="Scripts\extended\HoverExtender\HoverBehavior.js" />
+    <Content Include="Scripts\extended\HoverMenu\HoverMenuBehavior.debug.js" />
+    <Content Include="Scripts\extended\HoverMenu\HoverMenuBehavior.js" />
+    <Content Include="Scripts\extended\ListSearch\ListSearchBehavior.debug.js" />
+    <Content Include="Scripts\extended\ListSearch\ListSearchBehavior.js" />
+    <Content Include="Scripts\extended\MaskedEdit\MaskedEditBehavior.debug.js" />
+    <Content Include="Scripts\extended\MaskedEdit\MaskedEditBehavior.js" />
+    <Content Include="Scripts\extended\MaskedEdit\MaskedEditValidator.debug.js" />
+    <Content Include="Scripts\extended\MaskedEdit\MaskedEditValidator.js" />
+    <Content Include="Scripts\extended\ModalPopup\ModalPopupBehavior.debug.js" />
+    <Content Include="Scripts\extended\ModalPopup\ModalPopupBehavior.js" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_h_handle.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_h_handle_down.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_h_handle_hover.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_h_rail.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_h_rail_outer.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_v_handle.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_v_handle_down.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_v_handle_hover.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_v_rail.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\Images\slider_v_rail_outer.gif" />
+    <Content Include="Scripts\extended\MultiHandleSlider\MultiHandleSlider.css" />
+    <Content Include="Scripts\extended\MultiHandleSlider\MultiHandleSliderBehavior.debug.js" />
+    <Content Include="Scripts\extended\MultiHandleSlider\MultiHandleSliderBehavior.js" />
+    <Content Include="Scripts\extended\MutuallyExclusiveCheckBox\MutuallyExclusiveCheckBoxBehavior.debug.js" />
+    <Content Include="Scripts\extended\MutuallyExclusiveCheckBox\MutuallyExclusiveCheckBoxBehavior.js" />
+    <Content Include="Scripts\extended\NumericUpDown\NumericUpDownBehavior.debug.js" />
+    <Content Include="Scripts\extended\NumericUpDown\NumericUpDownBehavior.js" />
+    <Content Include="Scripts\extended\PagingBulletedList\PagingBulletedListBehavior.debug.js" />
+    <Content Include="Scripts\extended\PagingBulletedList\PagingBulletedListBehavior.js" />
+    <Content Include="Scripts\extended\PasswordStrength\PasswordStrengthExtenderBehavior.debug.js" />
+    <Content Include="Scripts\extended\PasswordStrength\PasswordStrengthExtenderBehavior.js" />
+    <Content Include="Scripts\extended\PopupControl\PopupControlBehavior.debug.js" />
+    <Content Include="Scripts\extended\PopupControl\PopupControlBehavior.js" />
+    <Content Include="Scripts\extended\PopupExtender\PopupBehavior.debug.js" />
+    <Content Include="Scripts\extended\PopupExtender\PopupBehavior.js" />
+    <Content Include="Scripts\extended\Rating\RatingBehavior.debug.js" />
+    <Content Include="Scripts\extended\Rating\RatingBehavior.js" />
+    <Content Include="Scripts\extended\ResizableControl\ResizableControlBehavior.debug.js" />
+    <Content Include="Scripts\extended\ResizableControl\ResizableControlBehavior.js" />
+    <Content Include="Scripts\extended\RoundedCorners\RoundedCornersBehavior.debug.js" />
+    <Content Include="Scripts\extended\RoundedCorners\RoundedCornersBehavior.js" />
+    <Content Include="Scripts\extended\Seadragon\images\fullpage_grouphover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\fullpage_hover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\fullpage_pressed.png" />
+    <Content Include="Scripts\extended\Seadragon\images\fullpage_rest.png" />
+    <Content Include="Scripts\extended\Seadragon\images\home_grouphover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\home_hover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\home_pressed.png" />
+    <Content Include="Scripts\extended\Seadragon\images\home_rest.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomin_grouphover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomin_hover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomin_pressed.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomin_rest.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomout_grouphover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomout_hover.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomout_pressed.png" />
+    <Content Include="Scripts\extended\Seadragon\images\zoomout_rest.png" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Buttons.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Buttons.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Config.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Config.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.DeepZoom.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.DeepZoom.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.DisplayRect.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.DisplayRect.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Drawer.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Drawer.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.ImageLoader.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.ImageLoader.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.MouseTracker.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.MouseTracker.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Point.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Point.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Profiler.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Profiler.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Rect.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Rect.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Spring.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Spring.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Strings.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Strings.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.TileSource.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.TileSource.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Utils.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Utils.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Viewport.debug.js" />
+    <Content Include="Scripts\extended\Seadragon\Seadragon.Viewport.js" />
+    <Content Include="Scripts\extended\Slider\Images\slider_h_handle.gif" />
+    <Content Include="Scripts\extended\Slider\Images\slider_h_rail.gif" />
+    <Content Include="Scripts\extended\Slider\Images\slider_v_handle.gif" />
+    <Content Include="Scripts\extended\Slider\Images\slider_v_rail.gif" />
+    <Content Include="Scripts\extended\Slider\Slider.css" />
+    <Content Include="Scripts\extended\Slider\SliderBehavior.debug.js" />
+    <Content Include="Scripts\extended\Slider\SliderBehavior.js" />
+    <Content Include="Scripts\extended\SlideShow\SlideShowBehavior.debug.js" />
+    <Content Include="Scripts\extended\SlideShow\SlideShowBehavior.js" />
+    <Content Include="Scripts\extended\Tabs\tab-active-left.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-active-right.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-active.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-hover-left.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-hover-right.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-hover.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-left.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-line.gif" />
+    <Content Include="Scripts\extended\Tabs\tab-right.gif" />
+    <Content Include="Scripts\extended\Tabs\tab.gif" />
+    <Content Include="Scripts\extended\Tabs\Tabs.css" />
+    <Content Include="Scripts\extended\Tabs\Tabs.debug.js" />
+    <Content Include="Scripts\extended\Tabs\Tabs.js" />
+    <Content Include="Scripts\extended\TextboxWatermark\TextboxWatermark.debug.js" />
+    <Content Include="Scripts\extended\TextboxWatermark\TextboxWatermark.js" />
+    <Content Include="Scripts\extended\ToggleButton\ToggleButton.debug.js" />
+    <Content Include="Scripts\extended\ToggleButton\ToggleButton.js" />
+    <Content Include="Scripts\extended\UpdatePanelAnimation\UpdatePanelAnimationBehavior.debug.js" />
+    <Content Include="Scripts\extended\UpdatePanelAnimation\UpdatePanelAnimationBehavior.js" />
+    <Content Include="Scripts\extended\ValidatorCallout\alert-large.gif" />
+    <Content Include="Scripts\extended\ValidatorCallout\alert-small.gif" />
+    <Content Include="Scripts\extended\ValidatorCallout\close.gif" />
+    <Content Include="Scripts\extended\ValidatorCallout\ValidatorCallout.css" />
+    <Content Include="Scripts\extended\ValidatorCallout\ValidatorCalloutBehavior.debug.js" />
+    <Content Include="Scripts\extended\ValidatorCallout\ValidatorCalloutBehavior.js" />
+    <Content Include="Scripts\MicrosoftAjax.debug.js" />
+    <Content Include="Scripts\MicrosoftAjax.js" />
+    <Content Include="Scripts\MicrosoftAjaxAdoNet.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxAdoNet.js" />
+    <Content Include="Scripts\MicrosoftAjaxApplicationServices.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\MicrosoftAjaxComponentModel.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\MicrosoftAjaxCore.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\MicrosoftAjaxDataContext.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxDataContext.js" />
+    <Content Include="Scripts\MicrosoftAjaxGlobalization.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\MicrosoftAjaxHistory.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\MicrosoftAjaxNetwork.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\MicrosoftAjaxSerialization.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\MicrosoftAjaxTemplates.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxTemplates.js" />
+    <Content Include="Scripts\MicrosoftAjaxTimer.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\MicrosoftAjaxWebForms.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\MicrosoftAjaxWebServices.debug.js" />
+    <Content Include="Scripts\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\Start.debug.js" />
+    <Content Include="Scripts\Start.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="book.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>book.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="BookService.svc.cs">
+      <DependentUpon>BookService.svc</DependentUpon>
+    </Compile>
+    <Compile Include="GetData.asmx.cs">
+      <DependentUpon>GetData.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GetDataFromWCF.svc.cs">
+      <DependentUpon>GetDataFromWCF.svc</DependentUpon>
+    </Compile>
+    <Compile Include="person.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="book.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>book.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49438</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

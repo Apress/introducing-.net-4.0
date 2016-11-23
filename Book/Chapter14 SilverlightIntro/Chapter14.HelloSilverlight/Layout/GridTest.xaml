@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Chapter14.HelloSilverlight.Layout.GridTest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+   >
+    
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="150"></RowDefinition>
+            <RowDefinition  Height="150"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+            <ColumnDefinition Width="300"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Rectangle Fill="blue" Grid.Row="0" Grid.Column="0" Width="100" Height="100"></Rectangle>
+        <Rectangle Fill="Red" Grid.Row="0" Grid.Column="1" Width="100" Height="100"></Rectangle>
+        <Rectangle Fill="Yellow" Grid.Row="1" Grid.Column="0" Width="100" Height="100"></Rectangle>
+        <Rectangle Fill="Green" Grid.Row="1" Grid.Column="1" Width="100" Height="100"></Rectangle>
+
+    </Grid>
+</UserControl>

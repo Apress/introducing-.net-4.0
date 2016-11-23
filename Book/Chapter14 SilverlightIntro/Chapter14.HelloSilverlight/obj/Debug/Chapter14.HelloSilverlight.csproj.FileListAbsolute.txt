@@ -1,0 +1,136 @@
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\Chapter14.HelloSilverlight.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\Chapter14.HelloSilverlight.pdb
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\AppManifest.xaml
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\Chapter14.HelloSilverlight.xap
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\TestPage.html
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\App.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\MainPage.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\Chapter14.HelloSilverlight.g.resources
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\Chapter14.HelloSilverlight.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\Chapter14.HelloSilverlight.pdb
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\XapCacheFile.xml
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\MainMenu.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\Layout\StackPanelTest.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\Layout\GridTest.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\Animation\Animation.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\Media\MediaPlayerTest.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\obj\Debug\DataBinding\DataBindingTest.g.cs
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Data.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.xml
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.xml
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Data.xml
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\Chapter14.HelloSilverlight.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\Chapter14.HelloSilverlight.pdb
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\AppManifest.xaml
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\Chapter14.HelloSilverlight.xap
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\TestPage.html
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Data.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.Input.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.xml
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.xml
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Data.xml
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.Windows.Controls.Data.Input.xml
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\App.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\Animation\Animation.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\DataBinding\DataBindingTest.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\Layout\GridTest.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\Layout\StackPanelTest.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\MainMenu.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\MainPage.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\Media\MediaPlayerTest.g.cs
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\Chapter14.HelloSilverlight.g.resources
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\Chapter14.HelloSilverlight.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\Chapter14.HelloSilverlight.pdb
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight\obj\Debug\XapCacheFile.xml

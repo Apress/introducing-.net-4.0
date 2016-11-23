@@ -1,0 +1,7 @@
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender.Web\bin\Chapter15.Sender.Web.dll
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender.Web\bin\Chapter15.Sender.Web.pdb
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender.Web\obj\Debug\Chapter15.Sender.Web.dll
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender.Web\obj\Debug\Chapter15.Sender.Web.pdb
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender.Web\bin\Chapter15.Receiver.dll
+D:\wwwroot\book\Chapter15_Silverlight3\Chapter15.Sender\Chapter15.Sender.Web\bin\Chapter15.Receiver.pdb

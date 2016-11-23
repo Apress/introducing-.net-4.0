@@ -1,0 +1,9 @@
+﻿<Window x:Class="Chapter15.Styles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" AllowsTransparency="False" Background="{StaticResource GreenBrushKey}">
+    <Grid><TextBlock Style="{StaticResource MyStyle}">Hello WPF</TextBlock>
+
+        <TextBlock Text="Hello" FontFamily="Arial"></TextBlock>
+    </Grid>
+</Window>

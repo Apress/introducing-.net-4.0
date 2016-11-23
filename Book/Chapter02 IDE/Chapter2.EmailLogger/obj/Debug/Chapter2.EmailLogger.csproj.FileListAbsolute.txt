@@ -1,0 +1,7 @@
+d:\wwwroot\book\chapter02\Chapter2.EmailLogger\bin\Debug\Chapter2.EmailLogger.dll
+d:\wwwroot\book\chapter02\Chapter2.EmailLogger\bin\Debug\Chapter2.EmailLogger.pdb
+d:\wwwroot\book\chapter02\Chapter2.EmailLogger\bin\Debug\Chapter2.MEFInterfaces.dll
+d:\wwwroot\book\chapter02\Chapter2.EmailLogger\bin\Debug\Chapter2.MEFInterfaces.pdb
+d:\wwwroot\book\chapter02\Chapter2.EmailLogger\obj\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter02\Chapter2.EmailLogger\obj\Debug\Chapter2.EmailLogger.dll
+d:\wwwroot\book\chapter02\Chapter2.EmailLogger\obj\Debug\Chapter2.EmailLogger.pdb

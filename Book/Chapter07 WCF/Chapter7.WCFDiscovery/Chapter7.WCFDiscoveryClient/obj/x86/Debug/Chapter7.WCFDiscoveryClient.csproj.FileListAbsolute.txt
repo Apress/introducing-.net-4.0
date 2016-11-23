@@ -1,0 +1,7 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscoveryClient\bin\Debug\Chapter7.WCFDiscoveryClient.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscoveryClient\bin\Debug\Chapter7.WCFDiscoveryClient.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscoveryClient\bin\Debug\Chapter7.WCFDiscovery.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscoveryClient\bin\Debug\Chapter7.WCFDiscovery.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscoveryClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscoveryClient\obj\x86\Debug\Chapter7.WCFDiscoveryClient.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscoveryClient\obj\x86\Debug\Chapter7.WCFDiscoveryClient.pdb

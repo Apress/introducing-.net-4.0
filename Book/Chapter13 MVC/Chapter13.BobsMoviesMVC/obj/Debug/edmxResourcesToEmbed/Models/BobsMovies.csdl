@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Chapter13.BoxMoviesMVC.Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="BookEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Films" EntityType="Chapter13.BoxMoviesMVC.Model.Film" />
+    <EntitySet Name="FilmShowings" EntityType="Chapter13.BoxMoviesMVC.Model.FilmShowing" />
+    <EntitySet Name="Orders" EntityType="Chapter13.BoxMoviesMVC.Model.Order" />
+    <EntitySet Name="OrderItems" EntityType="Chapter13.BoxMoviesMVC.Model.OrderItem" />
+    <AssociationSet Name="FK_FilmShowing_Film" Association="Chapter13.BoxMoviesMVC.Model.FK_FilmShowing_Film">
+      <End Role="Film" EntitySet="Films" />
+      <End Role="FilmShowing" EntitySet="FilmShowings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderItem_FilmShowing" Association="Chapter13.BoxMoviesMVC.Model.FK_OrderItem_FilmShowing">
+      <End Role="FilmShowing" EntitySet="FilmShowings" />
+      <End Role="OrderItem" EntitySet="OrderItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderItem_Order" Association="Chapter13.BoxMoviesMVC.Model.FK_OrderItem_Order">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrderItem" EntitySet="OrderItems" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Film">
+    <Key>
+      <PropertyRef Name="FilmID" />
+    </Key>
+    <Property Name="FilmID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="255" Unicode="false" FixedLength="false" />
+    <Property Name="Description" Type="String" MaxLength="255" Unicode="false" FixedLength="false" />
+    <Property Name="Length" Type="Int32" />
+    <NavigationProperty Name="FilmShowings" Relationship="Chapter13.BoxMoviesMVC.Model.FK_FilmShowing_Film" FromRole="Film" ToRole="FilmShowing" />
+  </EntityType>
+  <EntityType Name="FilmShowing">
+    <Key>
+      <PropertyRef Name="FilmShowingID" />
+    </Key>
+    <Property Name="FilmShowingID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FilmID" Type="Int32" />
+    <Property Name="ShowingDate" Type="DateTime" />
+    <Property Name="Screen" Type="Int32" />
+    <NavigationProperty Name="Film" Relationship="Chapter13.BoxMoviesMVC.Model.FK_FilmShowing_Film" FromRole="FilmShowing" ToRole="Film" />
+    <NavigationProperty Name="OrderItems" Relationship="Chapter13.BoxMoviesMVC.Model.FK_OrderItem_FilmShowing" FromRole="FilmShowing" ToRole="OrderItem" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderNumber" Type="String" MaxLength="255" Unicode="false" FixedLength="false" />
+    <Property Name="OrderDate" Type="DateTime" />
+    <Property Name="Firstname" Type="String" MaxLength="255" Unicode="false" FixedLength="false" />
+    <Property Name="Lastname" Type="String" MaxLength="255" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="OrderItems" Relationship="Chapter13.BoxMoviesMVC.Model.FK_OrderItem_Order" FromRole="Order" ToRole="OrderItem" />
+  </EntityType>
+  <EntityType Name="OrderItem">
+    <Key>
+      <PropertyRef Name="OrderItemID" />
+    </Key>
+    <Property Name="OrderItemID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderID" Type="Int32" />
+    <Property Name="FilmShowingID" Type="Int32" />
+    <Property Name="QtyAdult" Type="Int32" />
+    <Property Name="QtyChild" Type="Int32" />
+    <NavigationProperty Name="FilmShowing" Relationship="Chapter13.BoxMoviesMVC.Model.FK_OrderItem_FilmShowing" FromRole="OrderItem" ToRole="FilmShowing" />
+    <NavigationProperty Name="Order" Relationship="Chapter13.BoxMoviesMVC.Model.FK_OrderItem_Order" FromRole="OrderItem" ToRole="Order" />
+  </EntityType>
+  <Association Name="FK_FilmShowing_Film">
+    <End Role="Film" Type="Chapter13.BoxMoviesMVC.Model.Film" Multiplicity="0..1" />
+    <End Role="FilmShowing" Type="Chapter13.BoxMoviesMVC.Model.FilmShowing" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Film">
+        <PropertyRef Name="FilmID" />
+      </Principal>
+      <Dependent Role="FilmShowing">
+        <PropertyRef Name="FilmID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderItem_FilmShowing">
+    <End Role="FilmShowing" Type="Chapter13.BoxMoviesMVC.Model.FilmShowing" Multiplicity="0..1" />
+    <End Role="OrderItem" Type="Chapter13.BoxMoviesMVC.Model.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FilmShowing">
+        <PropertyRef Name="FilmShowingID" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="FilmShowingID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderItem_Order">
+    <End Role="Order" Type="Chapter13.BoxMoviesMVC.Model.Order" Multiplicity="0..1" />
+    <End Role="OrderItem" Type="Chapter13.BoxMoviesMVC.Model.OrderItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

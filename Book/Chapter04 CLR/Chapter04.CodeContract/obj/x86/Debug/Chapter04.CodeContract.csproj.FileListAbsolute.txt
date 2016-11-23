@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter04\Chapter04.CodeContract\bin\Debug\Chapter04.CodeContract.exe
+d:\wwwroot\book\chapter04\Chapter04.CodeContract\bin\Debug\Chapter04.CodeContract.pdb
+d:\wwwroot\book\chapter04\Chapter04.CodeContract\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter04\Chapter04.CodeContract\obj\x86\Debug\Chapter04.CodeContract.exe
+d:\wwwroot\book\chapter04\Chapter04.CodeContract\obj\x86\Debug\Chapter04.CodeContract.pdb

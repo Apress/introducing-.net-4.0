@@ -1,0 +1,16 @@
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.Tests.dll.config
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.Tests.dll
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.Tests.pdb
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.dll
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.pdb
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\obj\Debug\Chapter13.BobsMoviesMVC.Tests.dll
+D:\wwwroot\book\Chapter13_MVC\Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.Tests\obj\Debug\Chapter13.BobsMoviesMVC.Tests.pdb
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.Tests.dll.config
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.Tests.dll
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.Tests.pdb
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.dll
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\bin\Debug\Chapter13.BobsMoviesMVC.pdb
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\obj\Debug\Chapter13.BobsMoviesMVC.Tests.dll
+D:\wwwroot\Book\Chapter13 MVC\Chapter13.BobsMoviesMVC.Tests\obj\Debug\Chapter13.BobsMoviesMVC.Tests.pdb

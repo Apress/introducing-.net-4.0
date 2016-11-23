@@ -1,0 +1,2 @@
+obj\Debug\_Chapter6.Flowchart.g.cs
+obj\Debug\Workflow1.g.cs

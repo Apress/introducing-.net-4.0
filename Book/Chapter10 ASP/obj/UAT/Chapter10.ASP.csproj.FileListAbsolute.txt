@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter10\Chapter10.ASP\bin\Chapter10.ASP.dll
+d:\wwwroot\book\chapter10\Chapter10.ASP\bin\Chapter10.ASP.pdb
+d:\wwwroot\book\chapter10\Chapter10.ASP\obj\UAT\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter10\Chapter10.ASP\obj\UAT\Chapter10.ASP.dll
+d:\wwwroot\book\chapter10\Chapter10.ASP\obj\UAT\Chapter10.ASP.pdb

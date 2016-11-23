@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter05\Chapter05.Barrier\bin\Debug\Chapter05.Barrier.exe
+d:\wwwroot\book\chapter05\Chapter05.Barrier\bin\Debug\Chapter05.Barrier.pdb
+d:\wwwroot\book\chapter05\Chapter05.Barrier\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter05\Chapter05.Barrier\obj\x86\Debug\Chapter05.Barrier.exe
+d:\wwwroot\book\chapter05\Chapter05.Barrier\obj\x86\Debug\Chapter05.Barrier.pdb

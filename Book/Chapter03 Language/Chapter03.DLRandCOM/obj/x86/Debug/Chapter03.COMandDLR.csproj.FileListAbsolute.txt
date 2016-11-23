@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter03\Chapter03.COMandDLR\bin\Debug\Chapter03.COMandDLR.exe
+d:\wwwroot\book\chapter03\Chapter03.COMandDLR\bin\Debug\Chapter03.COMandDLR.pdb
+d:\wwwroot\book\chapter03\Chapter03.COMandDLR\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter03\Chapter03.COMandDLR\obj\x86\Debug\Chapter03.COMandDLR.exe
+d:\wwwroot\book\chapter03\Chapter03.COMandDLR\obj\x86\Debug\Chapter03.COMandDLR.pdb

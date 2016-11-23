@@ -1,0 +1,5 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscovery\bin\Debug\Chapter7.WCFDiscovery.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscovery\bin\Debug\Chapter7.WCFDiscovery.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscovery\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscovery\obj\x86\Debug\Chapter7.WCFDiscovery.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.WCFDiscovery\obj\x86\Debug\Chapter7.WCFDiscovery.pdb

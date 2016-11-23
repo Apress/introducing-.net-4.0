@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter7.WCFService", "Chapter7.WCFDiscovery\Chapter7.WCFService.csproj", "{D42AD88B-7305-470D-884F-9287473AB8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter7.FindServices", "Chapter7.FindServices\Chapter7.FindServices.csproj", "{E7E57ABC-5A2D-45D9-964B-F39C4C26849D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42AD88B-7305-470D-884F-9287473AB8A5}.Debug|x86.ActiveCfg = Debug|x86
+		{D42AD88B-7305-470D-884F-9287473AB8A5}.Debug|x86.Build.0 = Debug|x86
+		{D42AD88B-7305-470D-884F-9287473AB8A5}.Release|x86.ActiveCfg = Release|x86
+		{D42AD88B-7305-470D-884F-9287473AB8A5}.Release|x86.Build.0 = Release|x86
+		{E7E57ABC-5A2D-45D9-964B-F39C4C26849D}.Debug|x86.ActiveCfg = Debug|x86
+		{E7E57ABC-5A2D-45D9-964B-F39C4C26849D}.Debug|x86.Build.0 = Debug|x86
+		{E7E57ABC-5A2D-45D9-964B-F39C4C26849D}.Release|x86.ActiveCfg = Release|x86
+		{E7E57ABC-5A2D-45D9-964B-F39C4C26849D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

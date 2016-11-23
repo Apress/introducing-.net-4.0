@@ -1,0 +1,6 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\bin\Release\Chapter7.WCFWebService.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\bin\Release\Chapter7.WCFWebService.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Release\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Release\Chapter7.WCFWebService.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Release\Chapter7.WCFWebService.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\bin\Release\Chapter7.WCFWebService.dll.config

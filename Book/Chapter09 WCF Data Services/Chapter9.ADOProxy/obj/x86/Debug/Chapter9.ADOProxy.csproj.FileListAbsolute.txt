@@ -1,0 +1,5 @@
+D:\wwwroot\Book\Chapter09 WCF Data Services\Chapter9.ADOProxy\bin\Debug\Chapter9.ADOProxy.exe
+D:\wwwroot\Book\Chapter09 WCF Data Services\Chapter9.ADOProxy\bin\Debug\Chapter9.ADOProxy.pdb
+D:\wwwroot\Book\Chapter09 WCF Data Services\Chapter9.ADOProxy\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\Chapter09 WCF Data Services\Chapter9.ADOProxy\obj\x86\Debug\Chapter9.ADOProxy.exe
+D:\wwwroot\Book\Chapter09 WCF Data Services\Chapter9.ADOProxy\obj\x86\Debug\Chapter9.ADOProxy.pdb

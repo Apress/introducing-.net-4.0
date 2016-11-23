@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter02\Chapter2.MEFInterfaces\bin\Debug\Chapter2.MEFInterfaces.dll
+d:\wwwroot\book\chapter02\Chapter2.MEFInterfaces\bin\Debug\Chapter2.MEFInterfaces.pdb
+d:\wwwroot\book\chapter02\Chapter2.MEFInterfaces\obj\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter02\Chapter2.MEFInterfaces\obj\Debug\Chapter2.MEFInterfaces.dll
+d:\wwwroot\book\chapter02\Chapter2.MEFInterfaces\obj\Debug\Chapter2.MEFInterfaces.pdb

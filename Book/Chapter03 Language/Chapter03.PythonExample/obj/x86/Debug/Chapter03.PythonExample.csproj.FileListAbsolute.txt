@@ -1,0 +1,12 @@
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\Chapter03.PythonExample.exe
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\Chapter03.PythonExample.pdb
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\IronPython.dll
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\Microsoft.Scripting.Core.dll
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\Microsoft.Scripting.dll
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\Microsoft.Dynamic.dll
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\Microsoft.Scripting.Debugging.dll
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\Microsoft.Scripting.ExtensionAttribute.dll
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\bin\Debug\IronPython.xml
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\obj\x86\Debug\Chapter03.PythonExample.exe
+d:\wwwroot\book\chapter03\Chapter03.PythonExample\obj\x86\Debug\Chapter03.PythonExample.pdb

@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedRead\bin\Debug\Chapter4.MemoryMappedRead.exe
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedRead\bin\Debug\Chapter4.MemoryMappedRead.pdb
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedRead\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedRead\obj\x86\Debug\Chapter4.MemoryMappedRead.exe
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedRead\obj\x86\Debug\Chapter4.MemoryMappedRead.pdb

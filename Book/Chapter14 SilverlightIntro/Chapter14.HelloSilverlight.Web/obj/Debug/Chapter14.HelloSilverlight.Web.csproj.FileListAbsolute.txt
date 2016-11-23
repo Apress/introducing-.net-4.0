@@ -1,0 +1,10 @@
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight.Web\bin\Chapter14.HelloSilverlight.Web.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight.Web\bin\Chapter14.HelloSilverlight.Web.pdb
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight.Web\obj\Debug\Chapter14.HelloSilverlight.Web.dll
+D:\wwwroot\book\Chapter14_Silverlight\Chapter14.HelloSilverlight.Web\obj\Debug\Chapter14.HelloSilverlight.Web.pdb
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight.Web\bin\Chapter14.HelloSilverlight.Web.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight.Web\bin\Chapter14.HelloSilverlight.Web.pdb
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight.Web\obj\Debug\Chapter14.HelloSilverlight.Web.dll
+D:\wwwroot\Book\Chapter14 SilverlightIntro\Chapter14.HelloSilverlight.Web\obj\Debug\Chapter14.HelloSilverlight.Web.pdb

@@ -1,0 +1,10 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\bin\Debug\Chapter7.WCFWebService.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\bin\Debug\Chapter7.WCFWebService.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Debug\Chapter7.WCFWebService.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Debug\Chapter7.WCFWebService.pdb
+D:\wwwroot\Book\chapter07\Chapter7.WCFWebService\Chapter7.WCFWebService\bin\Debug\Chapter7.WCFWebService.dll
+D:\wwwroot\Book\chapter07\Chapter7.WCFWebService\Chapter7.WCFWebService\bin\Debug\Chapter7.WCFWebService.pdb
+D:\wwwroot\Book\chapter07\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\chapter07\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Debug\Chapter7.WCFWebService.dll
+D:\wwwroot\Book\chapter07\Chapter7.WCFWebService\Chapter7.WCFWebService\obj\Debug\Chapter7.WCFWebService.pdb

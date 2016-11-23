@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter05\Chapter5.Spinlock\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter05\Chapter5.Spinlock\bin\Debug\Chapter5.Spinlock.exe
+d:\wwwroot\book\chapter05\Chapter5.Spinlock\bin\Debug\Chapter5.Spinlock.pdb
+d:\wwwroot\book\chapter05\Chapter5.Spinlock\obj\x86\Debug\Chapter5.Spinlock.exe
+d:\wwwroot\book\chapter05\Chapter5.Spinlock\obj\x86\Debug\Chapter5.Spinlock.pdb

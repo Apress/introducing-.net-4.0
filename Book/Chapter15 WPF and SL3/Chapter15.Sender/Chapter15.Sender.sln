@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter15.Sender", "Chapter15.Sender\Chapter15.Sender.csproj", "{184EB649-1BA1-4954-9008-23A148DEAA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter15.Sender.Web", "Chapter15.Sender.Web\Chapter15.Sender.Web.csproj", "{BADE8099-4338-4A7D-B073-8FED731231DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter15.Receiver", "..\Chapter15.Receiver\Chapter15.Receiver.csproj", "{7F504BD9-D7E6-4C1B-B66A-2EB8ABFB1754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184EB649-1BA1-4954-9008-23A148DEAA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184EB649-1BA1-4954-9008-23A148DEAA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184EB649-1BA1-4954-9008-23A148DEAA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184EB649-1BA1-4954-9008-23A148DEAA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADE8099-4338-4A7D-B073-8FED731231DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADE8099-4338-4A7D-B073-8FED731231DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADE8099-4338-4A7D-B073-8FED731231DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADE8099-4338-4A7D-B073-8FED731231DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F504BD9-D7E6-4C1B-B66A-2EB8ABFB1754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F504BD9-D7E6-4C1B-B66A-2EB8ABFB1754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F504BD9-D7E6-4C1B-B66A-2EB8ABFB1754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F504BD9-D7E6-4C1B-B66A-2EB8ABFB1754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter04\Chapter04\bin\Debug\Chapter04.exe
+d:\wwwroot\book\chapter04\Chapter04\bin\Debug\Chapter04.pdb
+d:\wwwroot\book\chapter04\Chapter04\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter04\Chapter04\obj\x86\Debug\Chapter04.exe
+d:\wwwroot\book\chapter04\Chapter04\obj\x86\Debug\Chapter04.pdb

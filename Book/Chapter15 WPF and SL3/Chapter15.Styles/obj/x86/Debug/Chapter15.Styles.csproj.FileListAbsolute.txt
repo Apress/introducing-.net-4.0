@@ -1,0 +1,30 @@
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\bin\Debug\Chapter15.Styles.exe
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\bin\Debug\Chapter15.Styles.pdb
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\MainWindow.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\App.baml
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\MainWindow.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\App.g.cs
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles_MarkupCompile.cache
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.g.resources
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.Properties.Resources.resources
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.exe
+D:\wwwroot\book\Chapter15_WPFandSilverlight3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.pdb
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.exe
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.pdb
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\bin\Debug\Chapter15.Styles.exe
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\bin\Debug\Chapter15.Styles.pdb
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\MainWindow.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\Page1.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\App.baml
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\MainWindow.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\Page1.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\App.g.cs
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles_MarkupCompile.cache
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.g.resources
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\Chapter15.Styles.Properties.Resources.resources
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\wwwroot\Book\Chapter15 WPF and SL3\Chapter15.Styles\obj\x86\Debug\GenerateResource.write.1.tlog

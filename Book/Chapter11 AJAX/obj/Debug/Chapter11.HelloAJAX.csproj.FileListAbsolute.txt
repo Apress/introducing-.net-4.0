@@ -1,0 +1,10 @@
+D:\wwwroot\book\Chapter11_AJAX\Chapter11.HelloAJAX\Chapter11.HelloAJAX\bin\Chapter11.HelloAJAX.dll
+D:\wwwroot\book\Chapter11_AJAX\Chapter11.HelloAJAX\Chapter11.HelloAJAX\bin\Chapter11.HelloAJAX.pdb
+D:\wwwroot\book\Chapter11_AJAX\Chapter11.HelloAJAX\Chapter11.HelloAJAX\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter11_AJAX\Chapter11.HelloAJAX\Chapter11.HelloAJAX\obj\Debug\Chapter11.HelloAJAX.dll
+D:\wwwroot\book\Chapter11_AJAX\Chapter11.HelloAJAX\Chapter11.HelloAJAX\obj\Debug\Chapter11.HelloAJAX.pdb
+D:\wwwroot\Book\Chapter11 AJAX\bin\Chapter11.HelloAJAX.dll
+D:\wwwroot\Book\Chapter11 AJAX\bin\Chapter11.HelloAJAX.pdb
+D:\wwwroot\Book\Chapter11 AJAX\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\Chapter11 AJAX\obj\Debug\Chapter11.HelloAJAX.dll
+D:\wwwroot\Book\Chapter11 AJAX\obj\Debug\Chapter11.HelloAJAX.pdb

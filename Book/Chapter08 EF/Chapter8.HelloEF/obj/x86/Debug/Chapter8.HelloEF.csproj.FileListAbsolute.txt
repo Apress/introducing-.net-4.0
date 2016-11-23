@@ -1,0 +1,6 @@
+d:\wwwroot\book\chapter10\Chapter8.HelloEF\bin\Debug\Chapter8.HelloEF.exe.config
+d:\wwwroot\book\chapter10\Chapter8.HelloEF\bin\Debug\Chapter8.HelloEF.exe
+d:\wwwroot\book\chapter10\Chapter8.HelloEF\bin\Debug\Chapter8.HelloEF.pdb
+d:\wwwroot\book\chapter10\Chapter8.HelloEF\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter10\Chapter8.HelloEF\obj\x86\Debug\Chapter8.HelloEF.exe
+d:\wwwroot\book\chapter10\Chapter8.HelloEF\obj\x86\Debug\Chapter8.HelloEF.pdb

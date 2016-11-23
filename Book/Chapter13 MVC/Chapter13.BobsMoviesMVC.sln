@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{00000000-0000-0000-0000-000000000000}") = "Chapter13.BobsMoviesMVC", "Chapter13.BobsMoviesMVC\Chapter13.BobsMoviesMVC.csproj", "{BC7BE7D3-ED77-4F49-BFA5-34ABF6152619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter13.BobsMoviesMVC.Tests", "Chapter13.BobsMoviesMVC.Tests\Chapter13.BobsMoviesMVC.Tests.csproj", "{99FC09E8-E03C-4C70-94BA-7777D6FD175A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7BE7D3-ED77-4F49-BFA5-34ABF6152619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7BE7D3-ED77-4F49-BFA5-34ABF6152619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7BE7D3-ED77-4F49-BFA5-34ABF6152619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7BE7D3-ED77-4F49-BFA5-34ABF6152619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FC09E8-E03C-4C70-94BA-7777D6FD175A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FC09E8-E03C-4C70-94BA-7777D6FD175A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FC09E8-E03C-4C70-94BA-7777D6FD175A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FC09E8-E03C-4C70-94BA-7777D6FD175A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

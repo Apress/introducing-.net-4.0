@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter03\Chapter03.Variance\bin\Debug\Chapter03.Variance.exe
+d:\wwwroot\book\chapter03\Chapter03.Variance\bin\Debug\Chapter03.Variance.pdb
+d:\wwwroot\book\chapter03\Chapter03.Variance\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter03\Chapter03.Variance\obj\x86\Debug\Chapter03.Variance.exe
+d:\wwwroot\book\chapter03\Chapter03.Variance\obj\x86\Debug\Chapter03.Variance.pdb

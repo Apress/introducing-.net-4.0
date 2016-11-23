@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter05\Chapter5.BlockingCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter05\Chapter5.BlockingCollection\bin\Debug\Chapter5.BlockingCollection.exe
+d:\wwwroot\book\chapter05\Chapter5.BlockingCollection\bin\Debug\Chapter5.BlockingCollection.pdb
+d:\wwwroot\book\chapter05\Chapter5.BlockingCollection\obj\x86\Debug\Chapter5.BlockingCollection.exe
+d:\wwwroot\book\chapter05\Chapter5.BlockingCollection\obj\x86\Debug\Chapter5.BlockingCollection.pdb

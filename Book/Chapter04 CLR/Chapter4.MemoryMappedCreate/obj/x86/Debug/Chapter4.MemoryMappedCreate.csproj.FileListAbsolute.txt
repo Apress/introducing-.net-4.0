@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedCreate\bin\Debug\Chapter4.MemoryMappedCreate.exe
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedCreate\bin\Debug\Chapter4.MemoryMappedCreate.pdb
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedCreate\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedCreate\obj\x86\Debug\Chapter4.MemoryMappedCreate.exe
+d:\wwwroot\book\chapter04\Chapter4.MemoryMappedCreate\obj\x86\Debug\Chapter4.MemoryMappedCreate.pdb

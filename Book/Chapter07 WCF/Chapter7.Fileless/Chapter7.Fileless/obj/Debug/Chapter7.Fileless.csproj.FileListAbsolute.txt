@@ -1,0 +1,10 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Fileless\Chapter7.Fileless\bin\Chapter7.Fileless.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Fileless\Chapter7.Fileless\bin\Chapter7.Fileless.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Fileless\Chapter7.Fileless\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Fileless\Chapter7.Fileless\obj\Debug\Chapter7.Fileless.dll
+D:\wwwroot\book\Chapter7_WCF\Chapter7.Fileless\Chapter7.Fileless\obj\Debug\Chapter7.Fileless.pdb
+D:\wwwroot\Book\chapter07\Chapter7.Fileless\Chapter7.Fileless\bin\Chapter7.Fileless.dll
+D:\wwwroot\Book\chapter07\Chapter7.Fileless\Chapter7.Fileless\bin\Chapter7.Fileless.pdb
+D:\wwwroot\Book\chapter07\Chapter7.Fileless\Chapter7.Fileless\obj\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\chapter07\Chapter7.Fileless\Chapter7.Fileless\obj\Debug\Chapter7.Fileless.dll
+D:\wwwroot\Book\chapter07\Chapter7.Fileless\Chapter7.Fileless\obj\Debug\Chapter7.Fileless.pdb

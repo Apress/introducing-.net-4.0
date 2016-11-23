@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    
+    <script src="./Scripts/Start.js" type="text/javascript"></script>
+   
+    <style>
+    .sys-template { display: none; }
+    
+    .dataItem
+{
+    font-family:Arial;
+    font-size:20px;
+}
+
+#staticBind
+{
+    width:700px;
+}
+
+    </style>
+
+    <script type="text/javascript">
+
+        var dataContext;
+        Sys.require([Sys.components.dataView, Sys.components.adoNetDataContext], function () {
+
+            dataContext = Sys.create.adoNetDataContext({
+                serviceUri: "BookService.svc"
+            });
+
+            var master = Sys.create.dataView("#peopleView",
+             {
+                 dataProvider: dataContext,
+                 fetchOperation: "Films",
+                 itemRendered: detailRendered,
+                 autoFetch: true
+             });
+
+
+            function detailRendered(dataView, ctx) {
+                Sys.bind(Sys.get("#txtFilmTitle", ctx), "value", ctx.dataItem, "Title");
+            }
+
+        });
+
+        function SaveChanges() {
+            dataContext.saveChanges();
+        }
+
+   </script>
+
+</head>
+
+
+<body>
+
+<input type="button" onclick="javascript:SaveChanges();" value="Save Changes" />
+
+   <div id="peopleView" class="sys-template">  
+   
+   <div class="dataItem">
+   
+      <input id="txtFilmTitle" type="text" sys:value="title" />
+      <hr />
+      
+   </div>
+</div>   
+   
+</body>
+
+
+
+</html>

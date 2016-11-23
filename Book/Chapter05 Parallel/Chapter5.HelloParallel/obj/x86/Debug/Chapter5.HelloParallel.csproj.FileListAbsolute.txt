@@ -1,0 +1,5 @@
+d:\wwwroot\book\chapter05\Chapter5.HelloParallel\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\wwwroot\book\chapter05\Chapter5.HelloParallel\bin\Debug\Chapter5.HelloParallel.exe
+d:\wwwroot\book\chapter05\Chapter5.HelloParallel\bin\Debug\Chapter5.HelloParallel.pdb
+d:\wwwroot\book\chapter05\Chapter5.HelloParallel\obj\x86\Debug\Chapter5.HelloParallel.exe
+d:\wwwroot\book\chapter05\Chapter5.HelloParallel\obj\x86\Debug\Chapter5.HelloParallel.pdb

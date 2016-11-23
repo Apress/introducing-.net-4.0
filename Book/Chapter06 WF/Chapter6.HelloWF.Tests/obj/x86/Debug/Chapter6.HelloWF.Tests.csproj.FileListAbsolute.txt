@@ -1,0 +1,14 @@
+D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF.Tests\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.Tests.exe
+D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.Tests.pdb
+D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.exe
+D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.pdb
+D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF.Tests\obj\x86\Debug\Chapter6.HelloWF.Tests.exe
+D:\wwwroot\book\Chapter6_WF\Chapter6.HelloWF.Tests\obj\x86\Debug\Chapter6.HelloWF.Tests.pdb
+D:\wwwroot\Archive\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.Tests.exe
+D:\wwwroot\Archive\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.Tests.pdb
+D:\wwwroot\Archive\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.exe
+D:\wwwroot\Archive\book\Chapter6_WF\Chapter6.HelloWF.Tests\bin\Debug\Chapter6.HelloWF.pdb
+D:\wwwroot\Archive\book\Chapter6_WF\Chapter6.HelloWF.Tests\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Archive\book\Chapter6_WF\Chapter6.HelloWF.Tests\obj\x86\Debug\Chapter6.HelloWF.Tests.exe
+D:\wwwroot\Archive\book\Chapter6_WF\Chapter6.HelloWF.Tests\obj\x86\Debug\Chapter6.HelloWF.Tests.pdb

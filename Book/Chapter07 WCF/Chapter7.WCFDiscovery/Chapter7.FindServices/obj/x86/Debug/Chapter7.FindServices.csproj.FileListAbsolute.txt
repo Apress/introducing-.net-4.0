@@ -1,0 +1,10 @@
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.FindServices\bin\Debug\Chapter7.FindServices.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.FindServices\bin\Debug\Chapter7.FindServices.pdb
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.FindServices\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.FindServices\obj\x86\Debug\Chapter7.FindServices.exe
+D:\wwwroot\book\Chapter7_WCF\Chapter7.WCFDiscovery\Chapter7.FindServices\obj\x86\Debug\Chapter7.FindServices.pdb
+D:\wwwroot\Book\chapter07\Chapter7.WCFDiscovery\Chapter7.FindServices\bin\Debug\Chapter7.FindServices.exe
+D:\wwwroot\Book\chapter07\Chapter7.WCFDiscovery\Chapter7.FindServices\bin\Debug\Chapter7.FindServices.pdb
+D:\wwwroot\Book\chapter07\Chapter7.WCFDiscovery\Chapter7.FindServices\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wwwroot\Book\chapter07\Chapter7.WCFDiscovery\Chapter7.FindServices\obj\x86\Debug\Chapter7.FindServices.exe
+D:\wwwroot\Book\chapter07\Chapter7.WCFDiscovery\Chapter7.FindServices\obj\x86\Debug\Chapter7.FindServices.pdb

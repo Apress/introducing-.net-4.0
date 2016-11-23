@@ -1,0 +1,2 @@
+obj\Debug\Workflow1.g.xaml
+obj\Debug\SaveBooking.g.xaml
